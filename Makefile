@@ -2352,6 +2352,7 @@ REFTABLE_OBJS += reftable/compat.o
 REFTABLE_OBJS += reftable/record.o
 REFTABLE_OBJS += reftable/strbuf.o
 REFTABLE_OBJS += reftable/tree.o
+REFTABLE_OBJS += reftable/writer.o
 REFTABLE_OBJS += reftable/zlib-compat.o
 
 REFTABLE_TEST_OBJS += reftable/block_test.o
